@@ -1,7 +1,0 @@
-C:\Users\nohor\source\repos\Cajeroautojohan\Cajeroautojohan\bin\Debug\Cajeroautojohan.exe.config
-C:\Users\nohor\source\repos\Cajeroautojohan\Cajeroautojohan\bin\Debug\Cajeroautojohan.exe
-C:\Users\nohor\source\repos\Cajeroautojohan\Cajeroautojohan\bin\Debug\Cajeroautojohan.pdb
-C:\Users\nohor\source\repos\Cajeroautojohan\Cajeroautojohan\obj\Debug\Cajeroautojohan.csproj.AssemblyReference.cache
-C:\Users\nohor\source\repos\Cajeroautojohan\Cajeroautojohan\obj\Debug\Cajeroautojohan.csproj.CoreCompileInputs.cache
-C:\Users\nohor\source\repos\Cajeroautojohan\Cajeroautojohan\obj\Debug\Cajeroautojohan.exe
-C:\Users\nohor\source\repos\Cajeroautojohan\Cajeroautojohan\obj\Debug\Cajeroautojohan.pdb
